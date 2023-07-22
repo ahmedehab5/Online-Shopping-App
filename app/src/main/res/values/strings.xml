@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Online Shopping</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_now">New user? Register Now</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="full_name">Full name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="go_to_register_page">Go to register page</string>
+    <string name="phone">Phone</string>
+    <string name="already_nhave_an_naccount">Already \nHave an \nAccount?</string>
+    <string name="image">Image</string>
+</resources>
